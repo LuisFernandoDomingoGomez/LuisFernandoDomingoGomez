@@ -18,11 +18,11 @@
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
-[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/ferchusdg)](https://www.facebook.com/MoShakib.official/)
-[![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferchus_dg)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Fernando%20Domingo%20Gomez-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
+[![Facebook Badge](https://img.shields.io/badge/-Fernando%20Gomez-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/ferchusdg)](https://www.facebook.com/MoShakib.official/)
+[![Twitter](https://img.shields.io/badge/@ferchus_dg-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferchus_dg)
 [![Discord Badge](https://img.shields.io/badge/-ferchusdg%239742-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/ferchusdg#9742/)](https://discordapp.com/users/ferchusdg#9742/)
-[![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/nandodomingogomez)
+[![Spotify Badge](https://img.shields.io/badge/-nandodomingogomez-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/nandodomingogomez)
 
 
 ### ⚡ Skills:
