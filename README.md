@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Bienvenidos+a+mi+perfil+😇;Encantado+de+verte+aquí+😀;Sientase+libre+de+mirar+a+su+alrededor+😌;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Bienvenidos+a+mi+perfil+😇;Encantado+de+verlos+aquí+😀;;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
 </p>
 
 - 🎓 TSU en TI area desarrollo de software multiplataforma e Ingeniero en Desarrollo y Gestion de software.
@@ -18,8 +18,8 @@
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Fernando%20Domingo%20Gomez-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
-[![Facebook Badge](https://img.shields.io/badge/-Fernando%20Gomez-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/ferchusdg)](https://www.facebook.com/MoShakib.official/)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Fernando%20Domingo%20Gomez-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-domingo-g%C3%B3mez-1ba63b181/)](https://www.linkedin.com/in/luis-fernando-domingo-g%C3%B3mez-1ba63b181/)
+[![Facebook Badge](https://img.shields.io/badge/-Fernando%20Gomez-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/ferchusdg)](https://www.facebook.com/ferchusdg/)
 [![Twitter](https://img.shields.io/badge/@ferchus_dg-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferchus_dg)
 [![Discord Badge](https://img.shields.io/badge/-ferchusdg%239742-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/ferchusdg#9742/)](https://discordapp.com/users/ferchusdg#9742/)
 [![Spotify Badge](https://img.shields.io/badge/-nandodomingogomez-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/nandodomingogomez)
