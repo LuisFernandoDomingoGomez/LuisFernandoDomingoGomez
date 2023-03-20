@@ -10,24 +10,19 @@
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-- 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
-- 👷‍♂️ I’m working on Web Development
-- 🧠 Currently learning ML
-- 🔭 Looking for help with ML
-- 📫 Mail me: [shakib@duck.com](mailto:shakib@duck.com)
-- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
-- 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf)
-- 🌐 Web: [Mohammad Shakib](https://mo-shakib.github.io)
+- 🎓 TSU en TI area desarrollo de software multiplataforma e Ingeniero en Desarrollo y Gestion de software.
+- 👷‍♂️ Trabajo como Desarrollador de aplicaciones moviles y web.
+- 🧠 Actualmente aprendo Python.
+- 📫 Mail me: [al222010066@gmail.com](mailto:al222010066@gmail.com)
 <!-- - 💬 Ask me about Python -->
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:shakib@duck.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
-[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/MoShakib.official/)
-[![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
-[![Reddit](https://img.shields.io/badge/@mo__shakib-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
-[![Discord Badge](https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/Shakib#1251/)
-[![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
+[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/ferchusdg)](https://www.facebook.com/MoShakib.official/)
+[![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferchus_dg)
+[![Discord Badge](https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/)](https://discordapp.com/users/ferchusdg#9742/)
+[![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/nandodomingogomez)
 
 
 ### ⚡ Skills:
@@ -72,11 +67,6 @@
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a></p>
 </details>
 
-<details>	
-  <summary><b>&#x1f4c8; Github activity graph</b></summary>
-  <!-- Github activity graph -->
-<a href="#"><img alt="Shakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mo-shakib&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
-</details>
 <!-- &hide=other -->
 <details>	
   <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
