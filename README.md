@@ -56,23 +56,15 @@
 
 ## 💻 GitHub Stats
 <p align="center">
-  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+  <a href="#"><img alt="Luis Fernando Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LuisFernandoDomingoGomez&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Luis Fernando Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoDomingoGomez&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a></p>
-</details>
-
-<!-- &hide=other -->
-<details>	
-  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
-  <p align="center">
-    <a href="#"><img src="https://wakatime.com/share/@Shakib/ec179c03-1544-4124-b524-7a30f74fdc5b.svg"></a>
-  </p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFernandoDomingoGomez&hide_border=true&theme=dark"></a></p>
 </details>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
