@@ -28,8 +28,6 @@
 ### ⚡ Skills:
 [![Laravel](https://img.shields.io/badge/-Laravel-red?logo=Laravel)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![Angular]([https://img.shields.io/badge/Sublime_text-%23575757.svg?logo=Angular&logoColor=important)](#)
-[![NestJs](https://img.shields.io/badge/NestJs-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
