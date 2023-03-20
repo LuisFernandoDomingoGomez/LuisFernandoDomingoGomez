@@ -3,11 +3,11 @@
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
 </p>
 <h3 align="center">
-  Hi My name is Luis Fernando Domingo Gómez
+  Hola mi nombre es Luis Fernando Domingo Gómez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Bienvenidos+a+mi+perfil+😇;Encantado+de+verlos+aquí+😀;;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Bienvenidos+a+mi+perfil+😇;Encantado+de+verlos+aquí+😀;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
 </p>
 
 - 🎓 TSU en TI area desarrollo de software multiplataforma e Ingeniero en Desarrollo y Gestion de software.
@@ -26,11 +26,11 @@
 
 
 ### ⚡ Skills:
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-red?logo=Laravel)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![Swift](https://img.shields.io/badge/-Swift-5e5e5e?logo=swift)](#)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/-Angular-red?logo=Laravel)](#)
+[![NestJs](https://img.shields.io/badge/NestJs-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
@@ -46,10 +46,9 @@
 <!--   <a href="#"><img alt="" src=""></a> -->
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/Xcode-0078d7.svg?logo=xcode&logoColor=white"></a>
+<!--  <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a> -->
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<!--   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a> -->
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
   <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a>
 </p>
