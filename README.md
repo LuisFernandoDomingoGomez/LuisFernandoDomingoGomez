@@ -31,11 +31,15 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)](#)
+[![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white)](#)
+[![Blade](https://img.shields.io/badge/Blade-%23FFD166?logo=laravel&logoColor=white)](#)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white)](#)
 
-<!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
+
 <!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
-<!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#) -->
+
 <!-- style=flat-square& -->
 
 ### 🛠 Tools:
