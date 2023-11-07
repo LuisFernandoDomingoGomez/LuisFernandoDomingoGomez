@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Bienvenidos+a+mi+perfil+😇;Encantado+de+verlos+aquí+😀;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
 </p>
 
 - 🎓 TSU en TI area desarrollo de software multiplataforma e Ingeniero en Desarrollo y Gestion de software.
@@ -58,13 +58,3 @@
   <a href="#"><img alt="Luis Fernando Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoDomingoGomez&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
-
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
-  <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFernandoDomingoGomez&hide_border=true&theme=dark"></a></p>
-</details>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-  
