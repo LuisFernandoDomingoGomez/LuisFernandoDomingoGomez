@@ -49,7 +49,7 @@
 <!--  <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a> -->
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a>
+<!--  <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a> -->
 </p>
 
 ## 💻 GitHub Stats
