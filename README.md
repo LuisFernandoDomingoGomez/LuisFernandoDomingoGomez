@@ -33,7 +33,7 @@
 [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs)](#)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react)](#)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)](#)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
+<!--[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)-->
 
 
 
