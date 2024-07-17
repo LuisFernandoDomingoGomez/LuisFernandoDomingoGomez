@@ -8,7 +8,7 @@
 
 - 🎓 TSU en TI area desarrollo de software multiplataforma e Ingeniero en Desarrollo y Gestion de software.
 - 👷‍♂️ Trabajo como Desarrollador de aplicaciones moviles y web, me especializo en desarrollos a la medida.
-- 🧠 Actualmente aprendo Python.
+- 🧠 Actualmente aprendo Python y Mongo.
 - 📫 Mail me: [al222010066@gmail.com](mailto:al222010066@gmail.com)
 <!-- - 💬 Ask me about Python -->
 ### 🔗 Connect with me:
