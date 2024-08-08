@@ -3,12 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hola,+Mundo+🌎;Contáctame+si+me+necesitas+🤗;All+is+well+✨"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Contáctame+si+me+necesitas;All+is+well+✨"></a>
 </p>
 
 - 🎓 TSU en TI area desarrollo de software multiplataforma e Ingeniero en Desarrollo y Gestion de software.
 - 👷‍♂️ Trabajo como Desarrollador de aplicaciones moviles y web, me especializo en desarrollos a la medida.
-- 🧠 Actualmente aprendo Python y Mongo.
+- 🧠 Actualmente aprendo Python.
 - 📫 Mail me: [al222010066@gmail.com](mailto:al222010066@gmail.com)
 <!-- - 💬 Ask me about Python -->
 ### 🔗 Connect with me:
