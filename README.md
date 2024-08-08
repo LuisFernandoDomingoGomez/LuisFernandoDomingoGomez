@@ -25,14 +25,16 @@
 
 | Frontend Development                                                                                          | Backend Development                                                                                          |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)      | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)        | ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Blade](https://img.shields.io/badge/Blade-%23FAAE60.svg?style=for-the-badge&logo=laravel&logoColor=black)    |
-| ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![Livewire](https://img.shields.io/badge/Livewire-%23f45d48.svg?style=for-the-badge&logo=livewire&logoColor=white) |
-| ![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  | ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)            |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  |                                                                                                               |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |                                                                                                               |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |                                                                                                               |                                                                                                          |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)      | ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=Laravel) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)        | ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs)  |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript) | ![Blade](https://img.shields.io/badge/-Blade-FAAE60?logo=laravel)    |
+| ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) | ![Livewire](https://img.shields.io/badge/-Livewire-f45d48?logo=livewire&logoColor=white) |
+| ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react)  | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)            |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)  |                                                                                                               |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap) |                                                                                                               |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css) |                                                                                                               |
+
+
 
 <!-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 
