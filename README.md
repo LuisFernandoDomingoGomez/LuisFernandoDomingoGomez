@@ -35,7 +35,12 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)](#)
 <!--[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)-->
 
-
+### 🗄️ Databases:
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?logo=mysql&logoColor=white)](#)
+[![Navicat](https://img.shields.io/badge/-Navicat-%23F28220?logo=navicat&logoColor=white)](#)
+[![OpenRefine](https://img.shields.io/badge/-OpenRefine-%2315AABF?logo=openrefine&logoColor=white)](#)
+[![Workbench](https://img.shields.io/badge/-Workbench-%2300f.svg?logo=mysql&logoColor=white)](#)
 
 <!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
 
