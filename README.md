@@ -7,6 +7,14 @@
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Contáctame+si+me+necesitas;All+is+well+✨"></a>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer-Fullstack-blueviolet?style=for-the-badge&logo=code&logoColor=white">
+  <img src="https://img.shields.io/badge/Mobile%20App%20Dev-iOS%20%7C%20Android-green?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+---
+### ✨ About Me:
 <div align="center" style="margin-top: 30px;">
   <img src="https://img.shields.io/badge/TSU-TI%20desarrollo%20de%20software%20multiplataforma-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Ingeniero-Desarrollo%20y%20Gestion%20de%20software-green?style=for-the-badge">
