@@ -47,9 +47,10 @@
 <!--  <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a> -->
 </p>
 
-## 💻 GitHub Stats
-<p align="center">
-  <a href="#"><img alt="Luis Fernando Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LuisFernandoDomingoGomez&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Luis Fernando Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoDomingoGomez&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
-<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
-</p>
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img alt="Luis Fernando Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LuisFernandoDomingoGomez&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=79fe96&icon_color=79fe96&text_color=f2f2f2" height="200px" style="margin-bottom: 10px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 255, 144, 0.4);">
+  <img alt="Luis Fernando Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoDomingoGomez&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=0D1117&title_color=79fe96&icon_color=79fe96&text_color=f2f2f2" height="200px" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 255, 144, 0.4);">
+</div>
+
