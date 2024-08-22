@@ -15,15 +15,12 @@
 
 ---
 ### ✨ About Me:
-<div align="center" style="margin-top: 30px;">
-  <img src="https://img.shields.io/badge/TSU-TI%20desarrollo%20de%20software%20multiplataforma-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ingeniero-Desarrollo%20y%20Gestion%20de%20software-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Desarrollador-Web%20y%20Movil-red?style=for-the-badge">
-</div>
+- 🎓 **TSU en TI área desarrollo de software multiplataforma** e **Ingeniero en Desarrollo y Gestión de Software**.
+- 👷‍♂️ Trabajo como **Desarrollador de aplicaciones móviles y web**, especializado en **desarrollos a la medida**.
+- 🧠 Actualmente, estoy aprendiendo **Python**.
+- 📫 Puedes contactarme: [al222010066@gmail.com](mailto:al222010066@gmail.com)
 
-- 👷‍♂️ Trabajo como Desarrollador de aplicaciones moviles y web, me especializo en desarrollos a la medida.
-- 🧠 Actualmente aprendo Python.
-- 📫 Mail me: [al222010066@gmail.com](mailto:al222010066@gmail.com)
+---
 
 ### 🔗 Connect with me:
 <div align="center" style="margin-top: 20px;">
@@ -64,6 +61,8 @@
 </div>
 
 ## 📊 GitHub Stats
+
+---
 
 <div align="center" style="margin-top: 30px;">
   <img alt="Luis Fernando Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LuisFernandoDomingoGomez&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=79fe96&icon_color=79fe96&text_color=f2f2f2" height="200px" style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 255, 144, 0.4);">
