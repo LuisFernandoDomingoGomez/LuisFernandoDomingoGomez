@@ -38,45 +38,13 @@
 
 ### ⚡ Skills:
 
-<div align="center" style="margin-top: 20px;">
-  <table>
-    <tr>
-      <th style="padding: 10px; border-bottom: 2px solid #58a6ff;">Frontend Development</th>
-      <th style="padding: 10px; border-bottom: 2px solid #58a6ff;">Backend Development</th>
-      <th style="padding: 10px; border-bottom: 2px solid #58a6ff;">Databases</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
-        ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-        ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-        ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript)
-        ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
-        ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react)
-        ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js)
-      </td>
-      <td style="padding: 10px;">
-        ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-        ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=Laravel)
-        ![Blade](https://img.shields.io/badge/-Blade-FAAE60?style=for-the-badge&logo=laravel)
-        ![Livewire](https://img.shields.io/badge/-Livewire-f45d48?style=for-the-badge&logo=livewire&logoColor=white)
-        ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs)
-      </td>
-      <td style="padding: 10px;">
-        ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-        ![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-        ![Navicat](https://img.shields.io/badge/-Navicat-%23F28220?style=for-the-badge&logo=navicat&logoColor=white) 
-        ![OpenRefine](https://img.shields.io/badge/-OpenRefine-%2315AABF?style=for-the-badge&logo=openrefine&logoColor=white)
-        ![Workbench](https://img.shields.io/badge/-Workbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" style="padding: 10px; text-align: center; border-top: 2px solid #58a6ff;">
-        ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) 
-        ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-      </td>
-    </tr>
-  </table>
-</div>
+| Frontend Development                                                                                              | Backend Development                                                                                              | Databases                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Languages & Frameworks**                                                                                         | **Languages & Frameworks**                                                                                         | **Tools**                                                                                             |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=vue.js) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=Laravel) ![Blade](https://img.shields.io/badge/-Blade-FAAE60?logo=laravel) ![Livewire](https://img.shields.io/badge/-Livewire-f45d48?logo=livewire&logoColor=white) ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs) | ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?logo=mysql&logoColor=white) ![Navicat](https://img.shields.io/badge/-Navicat-%23F28220?logo=navicat&logoColor=white) ![OpenRefine](https://img.shields.io/badge/-OpenRefine-%2315AABF?logo=openrefine&logoColor=white) ![Workbench](https://img.shields.io/badge/-Workbench-%2300f.svg?logo=mysql&logoColor=white) |
+| **UI Frameworks**                                                                                                 |                                                                                                                    |                                                                                                      |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css) |                                                                                                                    |                                                                                                      |
+
 
 ### 🛠 Tools:
 
